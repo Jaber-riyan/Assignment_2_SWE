@@ -1,0 +1,92 @@
+.all-data-here
+{
+    margin: 10px 40px;
+}
+
+#sort-btn
+{
+    background: gray;
+    font-weight: bold;
+}
+
+#sort-btn:hover
+{
+    background: rgb(180, 180, 180);
+}
+
+#blg-btn
+{
+    background: rgb(255, 0, 0);
+    color: white;
+    font-weight: bold;
+}
+#blg-btn:hover
+{
+    background: rgb(255, 114, 114);
+}
+
+#gray-btn
+{
+    background: gray;
+    font-weight: bold;
+}
+#gray-btn:hover
+{
+    background: rgb(249, 0, 0);
+    font-weight: bold;
+}
+
+.box-img
+{
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.box-img:hover
+{
+    box-shadow: 10px 20px 20px gray;
+}
+
+#title
+{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.box 
+{
+    width: 300px;
+    height: 360px;
+    margin: 10px 40px;
+    /* border: 1px solid rgb(180, 180, 180); */
+}
+
+
+.allcontentratio
+{
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+#id-picture
+{
+    border-radius: 30px;
+    width: 30px;
+}
+
+#drawing-error-picture
+{
+    /* border-radius: 30px; */
+    width: 200px;
+    text-align: center;
+    margin-left: 250px;
+}
+
+.draw-cl
+{
+    margin-left: 270px;
+    margin-top: 20px;
+}
